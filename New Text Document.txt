@@ -1,1 +1,1 @@
-second commit
+Resolve any merge conflicts: If there are any conflicting changes between your local commits and the remote commits, you'll need to resolve them. Git will provide instructions within your terminal or command prompt to help you resolve conflicts manually. Once you've resolved any conflicts, proceed to the next step.
